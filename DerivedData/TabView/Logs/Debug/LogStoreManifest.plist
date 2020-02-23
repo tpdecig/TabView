@@ -278,6 +278,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4B8B29E3-97D3-491B-8499-776C3CDC2D0A</string>
 		</dict>
+		<key>4F08361F-20D7-4549-9DB9-20AE39C897FA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4F08361F-20D7-4549-9DB9-20AE39C897FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TabView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TabView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TabView</string>
+			<key>timeStartedRecording</key>
+			<real>604150131.26011097</real>
+			<key>timeStoppedRecording</key>
+			<real>604150177.96801996</real>
+			<key>title</key>
+			<string>Debug TabView</string>
+			<key>uniqueIdentifier</key>
+			<string>4F08361F-20D7-4549-9DB9-20AE39C897FA</string>
+		</dict>
 		<key>5B42A8B3-3CD3-4415-A4BE-143A2B87EB70</key>
 		<dict>
 			<key>className</key>
@@ -345,6 +379,40 @@
 			<string>Debug TabView</string>
 			<key>uniqueIdentifier</key>
 			<string>62B46068-BED3-4498-BEBB-09B5C863D221</string>
+		</dict>
+		<key>80E14FDE-05C2-4FE9-B32D-1B5C27327513</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>80E14FDE-05C2-4FE9-B32D-1B5C27327513.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TabView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TabView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TabView</string>
+			<key>timeStartedRecording</key>
+			<real>604146930.71690595</real>
+			<key>timeStoppedRecording</key>
+			<real>604148893.52201998</real>
+			<key>title</key>
+			<string>Debug TabView</string>
+			<key>uniqueIdentifier</key>
+			<string>80E14FDE-05C2-4FE9-B32D-1B5C27327513</string>
 		</dict>
 		<key>920EA542-844C-40E0-AF71-32CFAB35E82D</key>
 		<dict>
@@ -550,6 +618,40 @@
 			<key>uniqueIdentifier</key>
 			<string>AE025D71-B1ED-478E-8BB2-13E57F0D86A4</string>
 		</dict>
+		<key>B56A9A40-3E98-47A8-A1C1-6F18F705BC71</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B56A9A40-3E98-47A8-A1C1-6F18F705BC71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TabView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TabView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TabView</string>
+			<key>timeStartedRecording</key>
+			<real>604150006.74050903</real>
+			<key>timeStoppedRecording</key>
+			<real>604150129.46884406</real>
+			<key>title</key>
+			<string>Debug TabView</string>
+			<key>uniqueIdentifier</key>
+			<string>B56A9A40-3E98-47A8-A1C1-6F18F705BC71</string>
+		</dict>
 		<key>CB04B9C8-A2EB-4B72-B68A-4DBF814225EA</key>
 		<dict>
 			<key>className</key>
@@ -583,6 +685,40 @@
 			<string>Debug TabView</string>
 			<key>uniqueIdentifier</key>
 			<string>CB04B9C8-A2EB-4B72-B68A-4DBF814225EA</string>
+		</dict>
+		<key>EA70F88F-0088-4529-A810-1D45A4ECD6AB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA70F88F-0088-4529-A810-1D45A4ECD6AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TabView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TabView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TabView</string>
+			<key>timeStartedRecording</key>
+			<real>604150179.39418995</real>
+			<key>timeStoppedRecording</key>
+			<real>604150232.78348303</real>
+			<key>title</key>
+			<string>Debug TabView</string>
+			<key>uniqueIdentifier</key>
+			<string>EA70F88F-0088-4529-A810-1D45A4ECD6AB</string>
 		</dict>
 	</dict>
 </dict>

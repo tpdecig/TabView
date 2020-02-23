@@ -9,6 +9,7 @@
 import SwiftUI
 //import Combine
 
+// C'est la version qui fonctionne quand on met tout dans la meme struct
 
 struct TabNavView: View {
 
