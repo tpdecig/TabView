@@ -14,7 +14,8 @@
 		8C4161C024027BC900D0AB7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C4161BF24027BC900D0AB7D /* Assets.xcassets */; };
 		8C4161C324027BC900D0AB7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C4161C224027BC900D0AB7D /* Preview Assets.xcassets */; };
 		8C4161C624027BC900D0AB7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C4161C424027BC900D0AB7D /* LaunchScreen.storyboard */; };
-		8C4161CE24028D9D00D0AB7D /* tabNavView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4161CD24028D9D00D0AB7D /* tabNavView.swift */; };
+		8C4161CE24028D9D00D0AB7D /* AllInOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4161CD24028D9D00D0AB7D /* AllInOneView.swift */; };
+		8C4161D02402A69700D0AB7D /* NavigatingTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4161CF2402A69700D0AB7D /* NavigatingTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +28,8 @@
 		8C4161C224027BC900D0AB7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8C4161C524027BC900D0AB7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C4161C724027BC900D0AB7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8C4161CD24028D9D00D0AB7D /* tabNavView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tabNavView.swift; sourceTree = "<group>"; };
+		8C4161CD24028D9D00D0AB7D /* AllInOneView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AllInOneView.swift; sourceTree = "<group>"; };
+		8C4161CF2402A69700D0AB7D /* NavigatingTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigatingTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +65,8 @@
 				8C4161B624027BC500D0AB7D /* AppDelegate.swift */,
 				8C4161B824027BC500D0AB7D /* SceneDelegate.swift */,
 				8C4161BD24027BC500D0AB7D /* ContentView.swift */,
-				8C4161CD24028D9D00D0AB7D /* tabNavView.swift */,
+				8C4161CF2402A69700D0AB7D /* NavigatingTabView.swift */,
+				8C4161CD24028D9D00D0AB7D /* AllInOneView.swift */,
 				8C4161BF24027BC900D0AB7D /* Assets.xcassets */,
 				8C4161C424027BC900D0AB7D /* LaunchScreen.storyboard */,
 				8C4161C724027BC900D0AB7D /* Info.plist */,
@@ -156,7 +159,8 @@
 				8C4161BC24027BC500D0AB7D /* TabView.xcdatamodeld in Sources */,
 				8C4161BE24027BC500D0AB7D /* ContentView.swift in Sources */,
 				8C4161B924027BC500D0AB7D /* SceneDelegate.swift in Sources */,
-				8C4161CE24028D9D00D0AB7D /* tabNavView.swift in Sources */,
+				8C4161CE24028D9D00D0AB7D /* AllInOneView.swift in Sources */,
+				8C4161D02402A69700D0AB7D /* NavigatingTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
