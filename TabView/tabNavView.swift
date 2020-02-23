@@ -10,7 +10,7 @@ import SwiftUI
 //import Combine
 
 
-struct ContentView: View {
+struct TabNavView: View {
 
     @State var selectedView = 2 // on debute l'affichage avec celui qui permet de changer de tab progammatiquement
     //@State var modelNum = Model(num: 0,snum: "0")
@@ -81,8 +81,8 @@ struct ContentView: View {
 //}
 
 
-struct ContentView_Previews: PreviewProvider {
+struct TabNavView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        TabNavView()
     }
 }
